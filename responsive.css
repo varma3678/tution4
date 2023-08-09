@@ -1,0 +1,21 @@
+.image {
+    width: 500px;
+    height: 350px;
+    background-size: cover;
+}
+
+.bg-color {
+    background-color: #ffffff;
+
+}
+
+.main-heading {
+    color: #323f4b;
+    font-size: 26px;
+
+}
+
+.paragraph {
+    color: #7b8794;
+    font-family: "Roboto";
+}
